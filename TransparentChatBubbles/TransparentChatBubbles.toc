@@ -1,0 +1,5 @@
+## Interface: 50100
+## Title: TransparentChatBubbles
+## Notes: Makes the say, yell and party speech-bubbles fully transparent.
+## Version: 50100.1
+code.lua
